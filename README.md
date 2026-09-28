@@ -1,9 +1,18 @@
-👋 Hi, I'm Saksham Sheoran
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
+<div align="center">
+  <h1>
+    Hola , I'm
+    <a href="https://github.com/Saksham3392">Samanyu Gautam</a>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  </h1>
 
-💻 Developer | Problem Solver | Tech Enthusiast
+<h4> **A passionate Software Engineer || AI/ML Enthusiast  from India 🇮🇳**</h4>
+</div>
 
-I enjoy building projects, learning new technologies, and turning ideas into useful applications. I'm always curious about how things work and love improving my skills by building and experimenting.
 
+
+<br />
+<img align="right" height="250" width="375" alt="Coding" src="./coder.gif" />
 💫 About Me
 
 🔭 Currently working on: Personal projects and exploring new ideas
@@ -30,5 +39,26 @@ I enjoy building projects, learning new technologies, and turning ideas into use
 
 ---
 [![](https://komarev.com/ghpvc/?username=Saksham3392&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<table>
+<tr>
+<td width="70%" align="center">
+
+<h2>🚀 STAY AWESOME</h2>
+
+</td>
+<td width="30%" align="center">
+
+<img src="./emoji.gif" width="100" height="70" alt="Awesome"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
